@@ -56,8 +56,6 @@ Presence tracking & typing indicators
 
 Message synchronization after reconnect
 
-Optimistic UI for performance perception
-
 Robust socket lifecycle handling
 
 Designed for reliability under unstable network conditions.
@@ -89,6 +87,39 @@ Secured infrastructure with firewall & access controls
 Implemented structured logging & runtime monitoring
 
 Production-first engineering mindset.
+
+## Technical Stack
+
+JavaScript (Node.js ecosystem)
+
+TypeScript
+
+Go
+
+## Backend
+
+Express
+
+WebSockets
+
+Redis
+
+MySQL
+
+MongoDB
+
+## Infrastructure
+
+Linux
+
+Nginx
+
+PM2
+
+AWS EC2
+
+Git & CI workflows
+
 <!--
 **COZYTECH/COZYTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
