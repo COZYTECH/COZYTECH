@@ -61,6 +61,34 @@ Optimistic UI for performance perception
 Robust socket lifecycle handling
 
 Designed for reliability under unstable network conditions.
+
+## Payment & Reservation Backend
+
+Controlled state transitions with strict validation
+
+Expiration logic using timestamps (no cron dependency)
+
+Idempotent transaction handling
+
+Redis session persistence
+
+MySQL relational integrity constraints
+
+Built to prevent double charges and race-condition failures.
+
+## Cloud Deployment Architecture
+
+Provisioned Linux servers from scratch
+
+Configured Nginx as reverse proxy
+
+Managed Node clusters with PM2
+
+Secured infrastructure with firewall & access controls
+
+Implemented structured logging & runtime monitoring
+
+Production-first engineering mindset.
 <!--
 **COZYTECH/COZYTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
