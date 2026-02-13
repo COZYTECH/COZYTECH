@@ -21,37 +21,23 @@ With over 5 years of hands-on engineering experience, I’ve built and deployed:
 
 -Backend services in JavaScript and Go
 
-I don’t separate backend from infrastructure — I build systems end-to-end.
+## I don’t separate backend from infrastructure — I build systems end-to-end.
 
-What I Specialize In
-Backend System Design
+## What I Specialize In
 
-Service-layer architecture
-
+Backend System Design Service-layer architecture
 Idempotent APIs & safe retry mechanisms
-
 Explicit state machines (RESERVED → PAID → CANCELLED)
-
 Concurrency-aware design
-
 Relational schema modeling (MySQL)
-
 Cache strategies using Redis
-
 WebSocket-based real-time systems
-
 Production Infrastructure
-
 Linux server provisioning & hardening
-
 Nginx reverse proxy & load balancing
-
 PM2 process management & clustering
-
 Environment isolation (dev/staging/prod)
-
 Log-driven debugging & performance analysis
-
 AWS EC2 deployments
 <!--
 **COZYTECH/COZYTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
