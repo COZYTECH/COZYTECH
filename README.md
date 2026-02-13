@@ -1,4 +1,8 @@
 ## Hi there 👋
+Arigi Adinoyi Samuel
+Backend Engineer | Full-Stack Systems Architect | DevOps-Oriented Builder
+
+5+ Years Designing & Operating Production Systems
 
 <!--
 **COZYTECH/COZYTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
