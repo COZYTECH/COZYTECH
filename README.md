@@ -25,20 +25,42 @@ With over 5 years of hands-on engineering experience, I’ve built and deployed:
 
 ## What I Specialize In
 
-Backend System Design Service-layer architecture
-Idempotent APIs & safe retry mechanisms
-Explicit state machines (RESERVED → PAID → CANCELLED)
-Concurrency-aware design
-Relational schema modeling (MySQL)
-Cache strategies using Redis
-WebSocket-based real-time systems
-Production Infrastructure
-Linux server provisioning & hardening
-Nginx reverse proxy & load balancing
-PM2 process management & clustering
-Environment isolation (dev/staging/prod)
-Log-driven debugging & performance analysis
-AWS EC2 deployments
+Backend System Design Service-layer architecture,
+Idempotent APIs & safe retry mechanisms,
+Explicit state machines (RESERVED → PAID → CANCELLED),
+Concurrency-aware design,
+Relational schema modeling (MySQL),
+Cache strategies using Redis,
+WebSocket-based real-time systems,
+
+## Production Infrastructure
+Linux server provisioning & hardening,
+Nginx reverse proxy & load balancing,
+PM2 process management & clustering,
+Environment isolation (dev/staging/prod),
+Log-driven debugging & performance analysis,
+AWS EC2 deployments.
+
+## Full-Stack Ownership
+React Native applications with real-time updates,
+Optimistic UI patterns,
+API integration & contract design,
+Lifecycle-based socket management.
+
+## Systems I’ve Designed & Shipped
+Real-Time Communication Platform
+
+WebSocket event contract architecture
+
+Presence tracking & typing indicators
+
+Message synchronization after reconnect
+
+Optimistic UI for performance perception
+
+Robust socket lifecycle handling
+
+Designed for reliability under unstable network conditions.
 <!--
 **COZYTECH/COZYTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
