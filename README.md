@@ -1,5 +1,6 @@
 ## Hi there 👋
-##Arigi Adinoyi Samuel
+## Arigi Adinoyi Samuel
+
 Backend Engineer | Full-Stack Systems Architect | DevOps-Oriented Builder
 5+ Years Designing & Operating Production Systems
 
@@ -9,11 +10,17 @@ Executive Summary
 I design and operate backend systems that handle real-world constraints: concurrency, failure, scaling, security, and production reliability.
 With over 5 years of hands-on engineering experience, I’ve built and deployed:
 -Real-time communication systems
+
 -Payment & reservation backends with strict state control
+
 -Redis-backed session architectures
+
 -Cloud-native APIs running on Linux infrastructure
+
 -Production mobile apps backed by scalable services
+
 -Backend services in JavaScript and Go
+
 I don’t separate backend from infrastructure — I build systems end-to-end.
 
 What I Specialize In
