@@ -100,6 +100,12 @@ Go
 
 Express
 
+Gin
+
+Echo
+
+Beego
+
 WebSockets
 
 Redis
@@ -119,6 +125,36 @@ PM2
 AWS EC2
 
 Git & CI workflows
+
+## Engineering Principles
+
+Design for failure before success.
+
+State must be explicit.
+
+Every system needs observability.
+
+Simplicity scales better than cleverness.
+
+Production experience > tutorial knowledge.
+
+Systems thinking over feature thinking.
+
+##Current Focus 🔭
+
+Distributed systems in Go
+
+Performance profiling & optimization
+
+Observability & system metrics
+
+Architectural documentation
+
+Open-source contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cozytech&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cozytech&layout=compact)
+
 
 <!--
 **COZYTECH/COZYTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
