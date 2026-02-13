@@ -48,113 +48,128 @@ API integration & contract design,
 Lifecycle-based socket management.
 
 ## Systems I’ve Designed & Shipped
-Real-Time Communication Platform
 
-WebSocket event contract architecture
+-Real-Time Communication Platform
 
-Presence tracking & typing indicators
+-WebSocket event contract architecture
 
-Message synchronization after reconnect
+-Presence tracking & typing indicators
 
-Robust socket lifecycle handling
+-Message synchronization after reconnect
 
-Designed for reliability under unstable network conditions.
+-Robust socket lifecycle handling
+
+-Designed for reliability under unstable network conditions.
 
 ## Payment & Reservation Backend
 
-Controlled state transitions with strict validation
+-Controlled state transitions with strict validation
 
-Expiration logic using timestamps (no cron dependency)
+-Expiration logic using timestamps (no cron dependency)
 
-Idempotent transaction handling
+-Idempotent transaction handling
 
-Redis session persistence
+-Redis session persistence
 
-MySQL relational integrity constraints
+-MySQL relational integrity constraints
 
-Built to prevent double charges and race-condition failures.
+-Built to prevent double charges and race-condition failures.
 
 ## Cloud Deployment Architecture
 
-Provisioned Linux servers from scratch
+-Provisioned Linux servers from scratch
 
-Configured Nginx as reverse proxy
+-Configured Nginx as reverse proxy
 
-Managed Node clusters with PM2
+-Managed Node clusters with PM2
 
-Secured infrastructure with firewall & access controls
+-Secured infrastructure with firewall & access controls
 
-Implemented structured logging & runtime monitoring
+-Implemented structured logging & runtime monitoring
 
-Production-first engineering mindset.
+-Production-first engineering mindset.
 
 ## Technical Stack
 
-JavaScript (Node.js ecosystem)
+-JavaScript (Node.js ecosystem)
 
-TypeScript
+-TypeScript
 
-Go
+-Go
 
 ## Backend
 
-Express
+-Express
 
-Gin
+-Gin
 
-Echo
+-Echo
 
-Beego
+-Beego
 
-WebSockets
+-WebSockets
 
-Redis
+-Redis
 
-MySQL
+-MySQL
 
-MongoDB
+-MongoDB
 
 ## Infrastructure
 
-Linux
+-Linux
 
-Nginx
+-Nginx
 
-PM2
+-PM2
 
-AWS EC2
+-AWS EC2
 
-Git & CI workflows
+-Git & CI workflows
 
 ## Engineering Principles
 
-Design for failure before success.
+-Design for failure before success.
 
-State must be explicit.
+-State must be explicit.
 
-Every system needs observability.
+-Every system needs observability.
 
-Simplicity scales better than cleverness.
+-Simplicity scales better than cleverness.
 
-Production experience > tutorial knowledge.
+-Production experience > tutorial knowledge.
 
-Systems thinking over feature thinking.
+-Systems thinking over feature thinking.
 
-##Current Focus 🔭
+## Current Focus 🔭
 
-Distributed systems in Go
+-Distributed systems in Go
 
-Performance profiling & optimization
+-Performance profiling & optimization
 
-Observability & system metrics
+-Observability & system metrics
 
-Architectural documentation
+-Architectural documentation
 
-Open-source contributions
+-Open-source contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cozytech&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cozytech&layout=compact)
+## Let’s Connect
 
+If you're hiring for:
+
+Backend Engineer
+
+Full-Stack Engineer
+
+DevOps-Oriented Engineer
+
+Systems-Focused Developer
+
+I bring production experience, architectural thinking, and infrastructure ownership.
+
+LinkedIn: https://www.linkedin.com/in/samuel-adinoyi
+Twitter/X: https://x.com/addevnet
+Email: cozjahboi@gmail.com
 
 <!--
 **COZYTECH/COZYTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
