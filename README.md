@@ -6,7 +6,6 @@ Backend Engineer | Full-Stack Systems Architect | DevOps-Oriented Builder
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=0A66C2&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Systems+Thinker;JavaScript+%7C+Go+%7C+Distributed+Systems;Cloud+Infrastructure+%7C+Real-Time+Architecture;I+Design+Systems+That+Scale" /> </p>
 
-Executive Summary
 I design and operate backend systems that handle real-world constraints: concurrency, failure, scaling, security, and production reliability.
 With over 5 years of hands-on engineering experience, I’ve built and deployed:
 -Real-time communication systems
